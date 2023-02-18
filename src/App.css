@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  text-align: center;
+  background: #e6e6e6;
+}
+
+.bookResults {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+  text-align: center;
+}
